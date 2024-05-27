@@ -1,8 +1,7 @@
 <h1 align=center>个人简历</h1>
 
-- 姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名：黄焜/男/2001
+- 姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名：黄焜
 - 求职意向：测试开发工程师
-- 专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业：计算机科学-软件工程
 - 电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：+61 0490799678
 - 邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱：kunhuang510@outlook.com
 - 微&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信：CJay0510
@@ -11,11 +10,17 @@
 
 悉尼大学  硕士 2023.8 - 至今
 
+* 专业：Information Technology - Cybersecurity
+* 相关课程：数据库管理系统、网页应用程序开发、信息安全管理
+
 加拿大女王大学 本科 2019.9 - 2023.5
+
+* 专业：Computer Science - Software Engineer
+* 相关课程：数据结构，版本控制，软件架构
 
 ## 专业技能
 
-- 掌握Java、TypeScript开发语言，熟练使用Visual Studio开发工具，了解Python、C#等编程语言
+- 掌握Java、TypeScript开发语言，熟练使用Visual Studio，Latex开发工具，了解Python、C#等编程语言
 - 熟练操作PostgreSQL、MongoDB数据库及可视化工具MongodbCompass，掌握SQL语句/存储过程/索引等运用
 - 熟悉HTML，CSS，JavaScript，Cookie，Session等前端基础知识
 - 熟练使用Git代码管理工具进行团队合作开发和版本控制，了解DevOps（Azure/Jenkins）、敏捷开发
